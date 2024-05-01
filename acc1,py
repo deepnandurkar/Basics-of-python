@@ -1,0 +1,8 @@
+import math
+
+a=int(input("value of n:"))
+print(a)
+n=math.sqrt(a)
+print(int(n))
+
+    
